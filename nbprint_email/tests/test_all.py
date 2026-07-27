@@ -1,4 +1,4 @@
-from nbprint_email import *  # noqa
+from nbprint_email import *
 
 
 def test_all():
